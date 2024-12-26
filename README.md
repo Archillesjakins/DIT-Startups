@@ -1,7 +1,7 @@
 # DIT-Startups
 
-We going are building an Ecommerce website together atbleast the front-end version of it. 
-Here is the idea we would replicate this dummie website I bult using Google sites. 
+We are building an E-commerce website together at least the front-end version of it. 
+Here is the idea we will replicate this dummie website I built using Google Sites. 
 
 <a href="https://sites.google.com/view/ivy-collections/home">Ivy Collection</a>
 
